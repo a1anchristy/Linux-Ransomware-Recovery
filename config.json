@@ -22,8 +22,7 @@
       ".zepto",
       ".wallet",
       ".odin",
-      ".tesla",
-      ".ccc"
+      ".tesla"
     ],
     "threshold": 3,
     "time_window": 60,
