@@ -90,3 +90,9 @@
     "max_log_files": 3
   }
 }
+
+"suspicious_extensions": [".locked", ".encrypted"],
+"suspicious_keywords": ["RANSOMWARE", "DECRYPT"],
+"threshold": 4,
+"window_seconds": 60
+
